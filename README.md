@@ -6,6 +6,6 @@ We have all heard about wireless power and know it is accomplished by magnetic r
 
 ### Episode list
 
-* Episode #1: The Crime of Wireless Power (in-planning)
+* Episode #1: What is Wireless Power?
 
-
+What is the phenomenon of wireless power and who has been working on it? What are the reasons that it is not readily known?
